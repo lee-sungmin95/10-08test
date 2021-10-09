@@ -1,0 +1,17 @@
+.ppt_logo {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.ppt_footer_button {
+    font-size: .6rem;
+}
+
+.ppt_footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.ppt_header {
+    text-align: center;
+    margin: 2rem 0;
+}
